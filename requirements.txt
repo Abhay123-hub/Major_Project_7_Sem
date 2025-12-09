@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain_openai
+python-dotenv
+ipykernel
+langchain-community
+pandas
+numpy
+langchain_core
+fastapi
+uvicorn

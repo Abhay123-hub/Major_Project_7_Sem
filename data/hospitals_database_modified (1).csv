@@ -1,0 +1,301 @@
+hospital_name,doctor_name,qualification,specialization,doctor_phone,doctor_email,doctors_age,yoe,hospital_exact_location,disease_related,gender,available_for_online_consultation,avialable_slots,ratings(out_of_5),consultation_fee
+Aastha Hospital,Dr. Suresh Thakur,"MBBS, DM",General Surgeon,+91-9653128782,suresh.thakur697@gmail.com,41,8.0,"Krishna Nagar, Hamirpur",General Surgery,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,1426
+Aastha Hospital,Dr. Rahul Chauhan,MBBS,Orthopedic Surgeon,+91-8797922150,rahul.chauhan492gmail.com,42,9.0,"Krishna Nagar, Hamirpur",Bone & Joint Problems,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.8,1160
+Aastha Hospital,Dr. Priya Singh,"MBBS, DM",Pediatrician,+91-9727757862,priya.singh115@gmail.com,30,3.0,"Sujanpur Tira, Hamirpur",Child Health Issues,Female,No,10:00 AM - 2:00 PM,3.3,1430
+Aastha Hospital,Dr. Arun Chauhan,"MBBS, MCh",Neurologist,+91-8570163008,arun.chauhan76@gmail.com,39,4.0,"Main Market, Hamirpur",Brain Disorders,Male,No,10:00 AM - 2:00 PM,3.4,1395
+Aastha Hospital,Dr. Rohit Jaiswal,"MBBS, MS",Dermatologist,+91-9793310222,rohit.jaiswal417@gmail.com,39,2.0,"Dugha, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.2,1344
+Aastha Hospital,Dr. Deepak Verma,"MBBS, MS",Gynecologist,+91-7386829920,deepak.verma169@ gmail.com,56,12.0,"Sujanpur Tira, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.1,421
+Aastha Hospital,Dr. Amit Jaiswal,"MBBS, MS",General Surgeon,+91-7554650228,amit.jaiswal993@gmail.com,44,22.0,"Sujanpur Tira, Hamirpur",General Surgery,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",5.0,766
+Aastha Hospital,Dr. Neha Thakur,MBBS,Eye Specialist,+91-8705394006,neha.thakur422@gmail.com,61,12.0,"Near Bypass Road, Hamirpur",General Treatment,Female,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.1,630
+Aastha Hospital,Dr. Harsh Thakur,"MBBS, MS",Neurologist,+91-7304922098,harsh.thakur907@gmail.com,31,11.0,"Krishna Nagar, Hamirpur",Brain Disorders,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.0,387
+Aastha Hospital,Dr. Raghav Rana,"MBBS, MCh",Gynecologist,+91-9156888134,raghav.rana757@gmail.com,36,13.0,"Main Market, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.2,1423
+Aastha Hospital,Dr. Manish Thakur,MBBS,Cardiologist,+91-7750459226,manish.thakur295@gmail.com,42,14.0,"Main Market, Hamirpur",Heart Problems,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.3,1171
+Aastha Hospital,Dr. Rahul Kashyap,"MBBS, DM",ENT Specialist,+91-7209398736,rahul.kashyap178@gmail.com,37,15.0,"Krishna Nagar, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.4,430
+Aastha Hospital,Dr. Deepak Rana,"MBBS, MD",ENT Specialist,+91-8000809379,deepak.rana69@gmail.com,54,2.0,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.2,1069
+Aastha Hospital,Dr. Karan Singh,MBBS,Orthopedic Surgeon,+91-7846202743,karan.singh486@medmail.com,61,13.0,"Near Bypass Road, Hamirpur",Bone & Joint Problems,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.2,643
+Aastha Hospital,Dr. Vikas Bhardwaj,"MBBS, MD",Neurologist,+91-8564452739,vikas.bhardwaj907@medmail.com,58,8.0,"Pakka Bharor, Hamirpur",Brain Disorders,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,1105
+Aastha Hospital,Dr. Raghav Sharma,"MBBS, DM",Cardiologist,+91-9163707255,raghav.sharma954@medmail.com,48,9.0,"Near Bypass Road, Hamirpur",Heart Problems,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.8,685
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Amit Chauhan,"MBBS, DM",ENT Specialist,+91-8391225067,amit.chauhan778@medmail.com,43,7.0,"Main Market, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.6,1255
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Rahul Bhardwaj,MBBS,Gynecologist,+91-7774317997,rahul.bhardwaj377@medmail.com,62,6.0,"Krishna Nagar, Hamirpur",General Treatment,Male,Yes,10:00 AM - 2:00 PM,3.5,576
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Amit Kashyap,"MBBS, MD",General Surgeon,+91-9576891298,amit.kashyap707@medmail.com,30,9.0,"Main Market, Hamirpur",General Surgery,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.8,1484
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Manish Sharma,"MBBS, MD",Neurologist,+91-9292199230,manish.sharma510@medmail.com,36,6.0,"Dugha, Hamirpur",Brain Disorders,Male,Yes,10:00 AM - 2:00 PM,3.5,759
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Manish Singh,"MBBS, MS",Oncologist,+91-9367916806,manish.singh280@medmail.com,58,8.0,"Krishna Nagar, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,321
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Rahul Singh,"MBBS, MD",ENT Specialist,+91-7192284841,rahul.singh439@medmail.com,58,8.0,"Main Market, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,552
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Neha Rana,"MBBS, MCh",ENT Specialist,+91-9831562942,neha.rana17@medmail.com,50,8.0,"Dugha, Hamirpur",General Treatment,Female,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,1047
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Deepak Gupta,"MBBS, MD",Neurologist,+91-9508861090,deepak.gupta43@medmail.com,50,8.0,"Main Market, Hamirpur",Brain Disorders,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.7,1156
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Rohit Rana,"MBBS, DM",Gynecologist,+91-8320162747,rohit.rana861@medmail.com,45,5.0,"Near Bypass Road, Hamirpur",General Treatment,Male,Yes,10:00 AM - 2:00 PM,3.5,774
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Sonal Jaiswal,"MBBS, MS",ENT Specialist,+91-8683096711,sonal.jaiswal823@medmail.com,31,4.0,"Krishna Nagar, Hamirpur",General Treatment,Female,No,10:00 AM - 2:00 PM,3.4,1382
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Neha Singh,"MBBS, MD",Gynecologist,+91-7580272194,neha.singh551@medmail.com,35,4.0,"Dugha, Hamirpur",General Treatment,Female,No,10:00 AM - 2:00 PM,3.4,810
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Ritu Thakur,MBBS,Eye Specialist,+91-8969740633,ritu.thakur187@medmail.com,56,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,999
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Amit Bhardwaj,"MBBS, DM",Orthopedic Surgeon,+91-8617055278,amit.bhardwaj107@medmail.com,52,6.0,"Dugha, Hamirpur",Bone & Joint Problems,Male,Yes,10:00 AM - 2:00 PM,3.5,1275
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Alka Sharma,"MBBS, DM",Dermatologist,+91-7068896047,alka.sharma874@medmail.com,44,10.0,"Krishna Nagar, Hamirpur",Skin Problems,Female,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.9,489
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Harsh Kapoor,"MBBS, MD",Pediatrician,+91-8527221527,harsh.kapoor108@medmail.com,56,20.0,"Main Market, Hamirpur",Child Health Issues,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.8,1257
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Harsh Chauhan,"MBBS, MCh",Pediatrician,+91-8373207487,harsh.chauhan324@medmail.com,60,20.0,"Pakka Bharor, Hamirpur",Child Health Issues,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.8,986
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Amit Jaiswal,"MBBS, MCh",ENT Specialist,+91-7668537966,amit.jaiswal940@medmail.com,48,12.0,"Pakka Bharor, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.1,1257
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Rohit Gupta,"MBBS, MS",Gynecologist,+91-7346091702,rohit.gupta156@medmail.com,38,10.0,"Main Market, Hamirpur",General Treatment,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.9,862
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Karan Singh,"MBBS, MS",General Surgeon,+91-8296539144,karan.singh615@medmail.com,48,10.0,"Krishna Nagar, Hamirpur",General Surgery,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.9,1131
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Naveen Bhardwaj,MBBS,Cardiologist,+91-7007026091,naveen.bhardwaj460@medmail.com,54,22.0,"Pakka Bharor, Hamirpur",Heart Problems,Male,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",5.0,1454
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Neha Chauhan,"MBBS, MCh",Oncologist,+91-8239624229,neha.chauhan109@medmail.com,51,20.0,"Pakka Bharor, Hamirpur",General Treatment,Female,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",4.8,946
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Pooja Kapoor,"MBBS, MS",Dermatologist,+91-9800530234,pooja.kapoor208@medmail.com,33,9.0,"Krishna Nagar, Hamirpur",Skin Problems,Female,Yes,"10:00 AM - 2:00 PM, 5:00 PM - 7:00 PM",3.8,320
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Alka Gupta,"MBBS, MS",Neurologist,+91-7292432018,alka.gupta385@medmail.com,61,,"Near Bypass Road, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,1140
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Raghav Rana,"MBBS, MCh",Gynecologist,+91-7757899248,raghav.rana447@medmail.com,47,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,466
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Suresh Singh,MBBS,Gynecologist,+91-8045493092,suresh.singh691@medmail.com,64,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,687
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Arun Kapoor,MBBS,Dermatologist,+91-9852316313,arun.kapoor694@medmail.com,54,,"Sujanpur Tira, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,900
+"Dr Radhakrishnan Govt Medical College Hospital, Hamirpur",Dr. Sheetal Bhardwaj,"MBBS, DM",Gynecologist,+91-8201987348,sheetal.bhardwaj21@medmail.com,41,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,615
+Hamirpur Medical Centre 3,Dr. Meena Chauhan,"MBBS, MS",Pediatrician,+91-9540755306,meena.chauhan538@medmail.com,59,,"Krishna Nagar, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,313
+City Hospital Hamirpur,Dr. Deepak Bhardwaj,"MBBS, MS",Eye Specialist,+91-7821778448,deepak.bhardwaj5@medmail.com,49,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,541
+City Hospital Hamirpur,Dr. Manish Rana,"MBBS, MS",Gynecologist,+91-8575775000,manish.rana545@medmail.com,43,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1076
+City Hospital Hamirpur,Dr. Sheetal Chauhan,MBBS,Cardiologist,+91-8183339753,sheetal.chauhan439@medmail.com,55,,"Near Bypass Road, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,864
+City Hospital Hamirpur,Dr. Naveen Kapoor,"MBBS, MD",ENT Specialist,+91-8366015235,naveen.kapoor811@medmail.com,39,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1197
+City Hospital Hamirpur,Dr. Priya Singh,"MBBS, DM",Cardiologist,+91-7764315045,priya.singh828@medmail.com,38,,"Main Market, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,391
+City Hospital Hamirpur,Dr. Priya Gupta,"MBBS, MS",ENT Specialist,+91-8780000359,priya.gupta137@medmail.com,61,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1255
+City Hospital Hamirpur,Dr. Raghav Rana,"MBBS, MCh",General Surgeon,+91-8856101036,raghav.rana118@medmail.com,39,,"Dugha, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,808
+City Hospital Hamirpur,Dr. Deepak Jaiswal,"MBBS, MD",Orthopedic Surgeon,+91-9791928780,deepak.jaiswal229@medmail.com,43,,"Pakka Bharor, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,1075
+City Hospital Hamirpur,Dr. Arun Bhardwaj,MBBS,Orthopedic Surgeon,+91-7017325961,arun.bhardwaj808@medmail.com,40,,"Krishna Nagar, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,334
+City Hospital Hamirpur,Dr. Amit Bhardwaj,MBBS,Eye Specialist,+91-9285935146,amit.bhardwaj959@medmail.com,59,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,505
+City Hospital Hamirpur,Dr. Raghav Thakur,"MBBS, MD",Gynecologist,+91-9693504292,raghav.thakur823@medmail.com,61,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1404
+City Hospital Hamirpur,Dr. Harsh Singh,"MBBS, MS",Eye Specialist,+91-8729992212,harsh.singh815@medmail.com,64,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1325
+City Hospital Hamirpur,Dr. Karan Rana,"MBBS, MCh",Dermatologist,+91-8730907644,karan.rana481@medmail.com,64,,"Dugha, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1321
+City Hospital Hamirpur,Dr. Anjali Gupta,"MBBS, MD",Dermatologist,+91-7555752246,anjali.gupta994@medmail.com,62,,"Near Bypass Road, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,865
+City Hospital Hamirpur,Dr. Ritu Chauhan,"MBBS, MCh",Orthopedic Surgeon,+91-7157281280,ritu.chauhan347@medmail.com,56,,"Near Bypass Road, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,1429
+City Hospital Hamirpur,Dr. Arun Thakur,"MBBS, MD",Neurologist,+91-9505271781,arun.thakur710@medmail.com,31,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1002
+City Hospital Hamirpur,Dr. Harsh Bhardwaj,MBBS,Pediatrician,+91-9919606575,harsh.bhardwaj55@medmail.com,58,,"Main Market, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,701
+City Hospital Hamirpur,Dr. Alka Mahajan,"MBBS, MD",Pediatrician,+91-8936060555,alka.mahajan424@medmail.com,63,,"Dugha, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,1029
+City Hospital Hamirpur,Dr. Alka Jaiswal,MBBS,Gynecologist,+91-7617885244,alka.jaiswal493@medmail.com,49,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,461
+City Hospital Hamirpur,Dr. Sonal Mahajan,MBBS,Cardiologist,+91-9548702555,sonal.mahajan18@medmail.com,51,,"Sujanpur Tira, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,501
+City Hospital Hamirpur,Dr. Priya Jaiswal,"MBBS, MS",ENT Specialist,+91-9494418395,priya.jaiswal627@medmail.com,45,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1295
+City Hospital Hamirpur,Dr. Sonal Sharma,"MBBS, MD",General Surgeon,+91-9796144941,sonal.sharma577@medmail.com,41,,"Krishna Nagar, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,569
+City Hospital Hamirpur,Dr. Karan Kashyap,MBBS,ENT Specialist,+91-7694867292,karan.kashyap457@medmail.com,55,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1115
+City Hospital Hamirpur,Dr. Suresh Chauhan,"MBBS, MS",Orthopedic Surgeon,+91-9487399747,suresh.chauhan163@medmail.com,49,,"Sujanpur Tira, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,755
+City Hospital Hamirpur,Dr. Meena Rana,"MBBS, MS",Eye Specialist,+91-7711562291,meena.rana620@medmail.com,36,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1316
+Sai Hospital & IVF Center,Dr. Shalini Rana,"MBBS, DM",Cardiologist,+91-7838367348,shalini.rana908@medmail.com,38,,"Near Bypass Road, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,595
+Sai Hospital & IVF Center,Dr. Amit Sharma,"MBBS, MD",Neurologist,+91-7620895754,amit.sharma658@medmail.com,52,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1019
+Sai Hospital & IVF Center,Dr. Alka Singh,"MBBS, DM",Oncologist,+91-7290984974,alka.singh21@medmail.com,48,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,637
+Sai Hospital & IVF Center,Dr. Rahul Kapoor,"MBBS, DM",General Surgeon,+91-8581219395,rahul.kapoor382@medmail.com,36,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1178
+Sai Hospital & IVF Center,Dr. Naveen Thakur,"MBBS, MCh",Gynecologist,+91-8770133047,naveen.thakur9@medmail.com,52,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1376
+Sai Hospital & IVF Center,Dr. Shalini Thakur,"MBBS, MD",Cardiologist,+91-9150545607,shalini.thakur480@medmail.com,37,,"Sujanpur Tira, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1091
+Sai Hospital & IVF Center,Dr. Shalini Bhardwaj,"MBBS, MD",Oncologist,+91-8337192969,shalini.bhardwaj170@medmail.com,50,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,516
+Sai Hospital & IVF Center,Dr. Arun Rana,"MBBS, MCh",Orthopedic Surgeon,+91-8662930897,arun.rana578@medmail.com,53,,"Pakka Bharor, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,1063
+Sai Hospital & IVF Center,Dr. Neha Jaiswal,"MBBS, MS",Gynecologist,+91-7969538272,neha.jaiswal495@medmail.com,44,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,487
+Sai Hospital & IVF Center,Dr. Harsh Rana,"MBBS, MCh",Cardiologist,+91-9565296292,harsh.rana321@medmail.com,31,,"Main Market, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,679
+Sai Hospital & IVF Center,Dr. Sonal Chauhan,"MBBS, MD",Orthopedic Surgeon,+91-7909694094,sonal.chauhan926@medmail.com,48,,"Dugha, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,792
+Sai Hospital & IVF Center,Dr. Arun Rana,"MBBS, MD",Gynecologist,+91-8904844650,arun.rana531@medmail.com,60,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1364
+Sai Hospital & IVF Center,Dr. Deepak Sharma,MBBS,General Surgeon,+91-7010257941,deepak.sharma800@medmail.com,51,,"Sujanpur Tira, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1480
+Sai Hospital & IVF Center,Dr. Karan Rana,"MBBS, MS",Neurologist,+91-9317581883,karan.rana793@medmail.com,37,,"Dugha, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,314
+Sai Hospital & IVF Center,Dr. Vikas Mahajan,"MBBS, MCh",Eye Specialist,+91-8890582397,vikas.mahajan902@medmail.com,51,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,364
+Sai Hospital & IVF Center,Dr. Pooja Rana,"MBBS, DM",ENT Specialist,+91-8034079762,pooja.rana565@medmail.com,44,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,820
+Sai Hospital & IVF Center,Dr. Rohit Kapoor,"MBBS, DM",Cardiologist,+91-8677692490,rohit.kapoor240@medmail.com,47,,"Krishna Nagar, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1452
+Sai Hospital & IVF Center,Dr. Karan Thakur,"MBBS, DM",Neurologist,+91-7231520984,karan.thakur663@medmail.com,61,,"Near Bypass Road, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,947
+Sai Hospital & IVF Center,Dr. Pooja Jaiswal,MBBS,Eye Specialist,+91-7142005319,pooja.jaiswal765@medmail.com,65,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1386
+Sai Hospital & IVF Center,Dr. Naveen Sharma,"MBBS, MS",Neurologist,+91-8646423496,naveen.sharma608@medmail.com,45,,"Dugha, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1462
+Sai Hospital & IVF Center,Dr. Suresh Mahajan,"MBBS, DM",General Surgeon,+91-7302044617,suresh.mahajan436@medmail.com,39,,"Sujanpur Tira, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,892
+Himachal Head Neck Hospital,Dr. Arun Jaiswal,"MBBS, MD",ENT Specialist,+91-9284901033,arun.jaiswal716@medmail.com,52,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,691
+Himachal Head Neck Hospital,Dr. Raghav Jaiswal,"MBBS, MCh",Oncologist,+91-7774098171,raghav.jaiswal126@medmail.com,56,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,718
+Himachal Head Neck Hospital,Dr. Meena Thakur,"MBBS, DM",Oncologist,+91-8448986234,meena.thakur923@medmail.com,56,,"Near Bypass Road, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,588
+Himachal Head Neck Hospital,Dr. Harsh Bhardwaj,"MBBS, MCh",Neurologist,+91-9380166030,harsh.bhardwaj738@medmail.com,56,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,678
+Himachal Head Neck Hospital,Dr. Raghav Kashyap,MBBS,Eye Specialist,+91-9569254303,raghav.kashyap321@medmail.com,47,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,530
+Himachal Head Neck Hospital,Dr. Suresh Chauhan,"MBBS, MCh",Dermatologist,+91-9699575579,suresh.chauhan260@medmail.com,38,,"Main Market, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1317
+Himachal Head Neck Hospital,Dr. Suresh Chauhan,"MBBS, DM",Eye Specialist,+91-7078621211,suresh.chauhan963@medmail.com,33,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,340
+Himachal Head Neck Hospital,Dr. Ritu Rana,"MBBS, MCh",Gynecologist,+91-9111312739,ritu.rana33@medmail.com,53,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1351
+Himachal Head Neck Hospital,Dr. Naveen Kapoor,MBBS,Neurologist,+91-8877413226,naveen.kapoor427@medmail.com,44,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,434
+Himachal Head Neck Hospital,Dr. Ritu Kashyap,"MBBS, DM",Gynecologist,+91-7232611804,ritu.kashyap485@medmail.com,50,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,500
+Himachal Head Neck Hospital,Dr. Rohit Chauhan,MBBS,Neurologist,+91-8287288828,rohit.chauhan257@medmail.com,64,,"Main Market, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1079
+Himachal Head Neck Hospital,Dr. Anjali Mahajan,"MBBS, MCh",Cardiologist,+91-9164685368,anjali.mahajan810@medmail.com,57,,"Near Bypass Road, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1229
+Himachal Head Neck Hospital,Dr. Rahul Thakur,MBBS,Cardiologist,+91-7227067238,rahul.thakur489@medmail.com,59,,"Dugha, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1356
+Himachal Head Neck Hospital,Dr. Shalini Kashyap,"MBBS, MCh",Neurologist,+91-7106874589,shalini.kashyap408@medmail.com,41,,"Dugha, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1371
+Himachal Head Neck Hospital,Dr. Arun Thakur,"MBBS, MCh",Cardiologist,+91-7324190350,arun.thakur291@medmail.com,63,,"Krishna Nagar, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,802
+Himachal Head Neck Hospital,Dr. Meena Rana,"MBBS, MCh",Pediatrician,+91-7841325325,meena.rana672@medmail.com,60,,"Pakka Bharor, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,706
+Himachal Head Neck Hospital,Dr. Sheetal Mahajan,"MBBS, MS",Cardiologist,+91-7278687147,sheetal.mahajan301@medmail.com,32,,"Pakka Bharor, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1104
+Himachal Head Neck Hospital,Dr. Raghav Verma,"MBBS, MCh",Orthopedic Surgeon,+91-7490451956,raghav.verma672@medmail.com,65,,"Pakka Bharor, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,398
+Himachal Head Neck Hospital,Dr. Neha Thakur,MBBS,ENT Specialist,+91-7602238226,neha.thakur855@medmail.com,49,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,983
+Himachal Head Neck Hospital,Dr. Manish Mahajan,"MBBS, MCh",Orthopedic Surgeon,+91-8129750943,manish.mahajan759@medmail.com,63,,"Near Bypass Road, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,1025
+Himachal Head Neck Hospital,Dr. Karan Chauhan,"MBBS, DM",Pediatrician,+91-7017471709,karan.chauhan504@medmail.com,44,,"Sujanpur Tira, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,1260
+Himachal Head Neck Hospital,Dr. Arun Verma,"MBBS, MD",Cardiologist,+91-9101802691,arun.verma643@medmail.com,32,,"Dugha, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,912
+Himachal Head Neck Hospital,Dr. Alka Mahajan,"MBBS, MD",General Surgeon,+91-7499709545,alka.mahajan124@medmail.com,63,,"Near Bypass Road, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,942
+Himachal Head Neck Hospital,Dr. Harsh Kapoor,"MBBS, MS",Neurologist,+91-8020067830,harsh.kapoor379@medmail.com,54,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1328
+Himachal Head Neck Hospital,Dr. Deepak Sharma,"MBBS, MCh",Gynecologist,+91-7822328986,deepak.sharma10@medmail.com,32,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,802
+Himachal Head Neck Hospital,Dr. Harsh Gupta,"MBBS, MS",Cardiologist,+91-9004546938,harsh.gupta356@medmail.com,61,,"Krishna Nagar, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1066
+Himachal Head Neck Hospital,Dr. Pooja Sharma,MBBS,Pediatrician,+91-9432930040,pooja.sharma448@medmail.com,55,,"Sujanpur Tira, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,697
+Himachal Head Neck Hospital,Dr. Anjali Bhardwaj,"MBBS, MS",Oncologist,+91-9253858310,anjali.bhardwaj743@medmail.com,56,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1170
+Himachal Head Neck Hospital,Dr. Suresh Verma,MBBS,Pediatrician,+91-9643470963,suresh.verma990@medmail.com,40,,"Pakka Bharor, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,1094
+Himachal Head Neck Hospital,Dr. Pooja Chauhan,"MBBS, MCh",Pediatrician,+91-9330599446,pooja.chauhan727@medmail.com,38,,"Main Market, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,692
+Thakur Surgical & Maternity Nursing Home,Dr. Raghav Bhardwaj,MBBS,Pediatrician,+91-7904797367,raghav.bhardwaj76@medmail.com,59,,"Sujanpur Tira, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,506
+Thakur Surgical & Maternity Nursing Home,Dr. Neha Verma,"MBBS, DM",Neurologist,+91-7551457830,neha.verma80@medmail.com,49,,"Krishna Nagar, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,1338
+Thakur Surgical & Maternity Nursing Home,Dr. Harsh Sharma,"MBBS, MD",Cardiologist,+91-7770751928,harsh.sharma216@medmail.com,62,,"Near Bypass Road, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1191
+Thakur Surgical & Maternity Nursing Home,Dr. Raghav Verma,"MBBS, MD",General Surgeon,+91-8781101129,raghav.verma143@medmail.com,46,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1163
+Thakur Surgical & Maternity Nursing Home,Dr. Raghav Kashyap,"MBBS, MS",General Surgeon,+91-8444811876,raghav.kashyap394@medmail.com,60,,"Dugha, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1042
+Thakur Surgical & Maternity Nursing Home,Dr. Deepak Gupta,"MBBS, MCh",Pediatrician,+91-8134008969,deepak.gupta440@medmail.com,55,,"Dugha, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,863
+Thakur Surgical & Maternity Nursing Home,Dr. Rohit Sharma,"MBBS, MD",General Surgeon,+91-8223632950,rohit.sharma208@medmail.com,53,,"Near Bypass Road, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1320
+Thakur Surgical & Maternity Nursing Home,Dr. Anjali Verma,MBBS,Gynecologist,+91-9007522736,anjali.verma419@medmail.com,57,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,395
+Thakur Surgical & Maternity Nursing Home,Dr. Vikas Gupta,"MBBS, MCh",General Surgeon,+91-8944100962,vikas.gupta934@medmail.com,34,,"Pakka Bharor, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,784
+Thakur Surgical & Maternity Nursing Home,Dr. Manish Verma,"MBBS, MD",Oncologist,+91-7972173559,manish.verma524@medmail.com,63,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,530
+Thakur Surgical & Maternity Nursing Home,Dr. Arun Bhardwaj,"MBBS, MCh",Pediatrician,+91-7046201994,arun.bhardwaj829@medmail.com,55,,"Sujanpur Tira, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,1048
+Thakur Surgical & Maternity Nursing Home,Dr. Pooja Kapoor,MBBS,General Surgeon,+91-7606582078,pooja.kapoor394@medmail.com,55,,"Sujanpur Tira, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1494
+Thakur Surgical & Maternity Nursing Home,Dr. Priya Sharma,"MBBS, MS",Neurologist,+91-9549001925,priya.sharma123@medmail.com,38,,"Dugha, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,840
+Thakur Surgical & Maternity Nursing Home,Dr. Manish Mahajan,"MBBS, MD",General Surgeon,+91-8096194329,manish.mahajan335@medmail.com,39,,"Dugha, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1359
+Thakur Surgical & Maternity Nursing Home,Dr. Shalini Verma,"MBBS, MD",Pediatrician,+91-9115823916,shalini.verma757@medmail.com,36,,"Near Bypass Road, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,824
+Nav Bharati Clinic,Dr. Amit Kashyap,"MBBS, MCh",Gynecologist,+91-7487416596,amit.kashyap724@medmail.com,45,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1483
+Nav Bharati Clinic,Dr. Harsh Gupta,MBBS,Pediatrician,+91-8525123860,harsh.gupta704@medmail.com,53,,"Dugha, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,1409
+Nav Bharati Clinic,Dr. Rahul Sharma,MBBS,Eye Specialist,+91-7209641592,rahul.sharma292@medmail.com,55,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,877
+Nav Bharati Clinic,Dr. Harsh Jaiswal,"MBBS, MS",Neurologist,+91-8575539786,harsh.jaiswal461@medmail.com,49,,"Near Bypass Road, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,981
+Nav Bharati Clinic,Dr. Ritu Mahajan,"MBBS, DM",Dermatologist,+91-7128070906,ritu.mahajan827@medmail.com,34,,"Dugha, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,856
+Nav Bharati Clinic,Dr. Neha Mahajan,"MBBS, MD",ENT Specialist,+91-9688975313,neha.mahajan258@medmail.com,44,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1312
+Nav Bharati Clinic,Dr. Amit Sharma,"MBBS, MD",General Surgeon,+91-9267630597,amit.sharma310@medmail.com,54,,"Sujanpur Tira, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,945
+Nav Bharati Clinic,Dr. Karan Verma,MBBS,Dermatologist,+91-7718210977,karan.verma219@medmail.com,40,,"Dugha, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1095
+Nav Bharati Clinic,Dr. Arun Bhardwaj,MBBS,ENT Specialist,+91-8346369048,arun.bhardwaj632@medmail.com,46,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1351
+Nav Bharati Clinic,Dr. Neha Jaiswal,"MBBS, MCh",ENT Specialist,+91-7490801667,neha.jaiswal719@medmail.com,44,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,489
+Nav Bharati Clinic,Dr. Amit Singh,"MBBS, MCh",Pediatrician,+91-7817906961,amit.singh620@medmail.com,59,,"Dugha, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,932
+Nav Bharati Clinic,Dr. Neha Chauhan,"MBBS, DM",Gynecologist,+91-7438850422,neha.chauhan368@medmail.com,54,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,927
+Nav Bharati Clinic,Dr. Neha Chauhan,MBBS,General Surgeon,+91-8229284602,neha.chauhan266@medmail.com,64,,"Krishna Nagar, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1272
+Nav Bharati Clinic,Dr. Deepak Rana,"MBBS, MD",General Surgeon,+91-8286550437,deepak.rana864@medmail.com,51,,"Pakka Bharor, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1009
+Nav Bharati Clinic,Dr. Vikas Mahajan,"MBBS, MD",Pediatrician,+91-8896814407,vikas.mahajan368@medmail.com,63,,"Pakka Bharor, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,948
+Nav Bharati Clinic,Dr. Rahul Verma,"MBBS, MD",Gynecologist,+91-9847215508,rahul.verma347@medmail.com,61,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,617
+Nav Bharati Clinic,Dr. Raghav Bhardwaj,"MBBS, MS",Gynecologist,+91-9836348225,raghav.bhardwaj597@medmail.com,31,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,983
+Nav Bharati Clinic,Dr. Suresh Sharma,"MBBS, MS",Orthopedic Surgeon,+91-9366344033,suresh.sharma398@medmail.com,64,,"Pakka Bharor, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,963
+Nav Bharati Clinic,Dr. Pooja Thakur,"MBBS, MD",Orthopedic Surgeon,+91-8345107618,pooja.thakur526@medmail.com,34,,"Krishna Nagar, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,1436
+Nav Bharati Clinic,Dr. Harsh Thakur,"MBBS, MCh",ENT Specialist,+91-8353610116,harsh.thakur623@medmail.com,47,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,741
+Nav Bharati Clinic,Dr. Shalini Singh,"MBBS, DM",Cardiologist,+91-8065015925,shalini.singh603@medmail.com,53,,"Pakka Bharor, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,863
+Nav Bharati Clinic,Dr. Meena Thakur,"MBBS, MS",Pediatrician,+91-8638765105,meena.thakur343@medmail.com,36,,"Main Market, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,1436
+Nav Bharati Clinic,Dr. Ritu Rana,"MBBS, MCh",Eye Specialist,+91-7939714280,ritu.rana974@medmail.com,60,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1251
+Aapka Hospital,Dr. Amit Mahajan,"MBBS, DM",Neurologist,+91-9874809124,amit.mahajan89@medmail.com,51,,"Main Market, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1404
+Aapka Hospital,Dr. Deepak Kapoor,"MBBS, MCh",Oncologist,+91-9985816857,deepak.kapoor402@medmail.com,46,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,998
+Aapka Hospital,Dr. Sonal Verma,"MBBS, MD",General Surgeon,+91-9085879968,sonal.verma144@medmail.com,59,,"Main Market, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,412
+Aapka Hospital,Dr. Karan Thakur,"MBBS, MCh",Cardiologist,+91-7363569203,karan.thakur988@medmail.com,43,,"Main Market, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,301
+Aapka Hospital,Dr. Harsh Mahajan,"MBBS, MCh",Cardiologist,+91-9202587014,harsh.mahajan923@medmail.com,44,,"Main Market, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,941
+Aapka Hospital,Dr. Naveen Kashyap,"MBBS, MS",General Surgeon,+91-8389835267,naveen.kashyap70@medmail.com,62,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,519
+Aapka Hospital,Dr. Anjali Kapoor,"MBBS, MS",General Surgeon,+91-7305462133,anjali.kapoor579@medmail.com,45,,"Dugha, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1154
+Aapka Hospital,Dr. Alka Jaiswal,"MBBS, MS",Neurologist,+91-9202866762,alka.jaiswal183@medmail.com,54,,"Krishna Nagar, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,684
+Aapka Hospital,Dr. Rahul Verma,"MBBS, MD",Cardiologist,+91-7006136608,rahul.verma867@medmail.com,37,,"Dugha, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1453
+Aapka Hospital,Dr. Ritu Singh,"MBBS, MCh",General Surgeon,+91-8931574276,ritu.singh627@medmail.com,56,,"Sujanpur Tira, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1376
+Aapka Hospital,Dr. Sheetal Thakur,"MBBS, MD",Cardiologist,+91-8927785016,sheetal.thakur331@medmail.com,59,,"Pakka Bharor, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1029
+Aapka Hospital,Dr. Rahul Mahajan,"MBBS, DM",Pediatrician,+91-9402685965,rahul.mahajan46@medmail.com,58,,"Pakka Bharor, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,546
+Aapka Hospital,Dr. Rohit Kashyap,"MBBS, MD",Eye Specialist,+91-7995750693,rohit.kashyap696@medmail.com,56,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1135
+Minhas Hospital (Nadaun),Dr. Meena Mahajan,"MBBS, MCh",Eye Specialist,+91-7392307891,meena.mahajan119@medmail.com,42,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,502
+Minhas Hospital (Nadaun),Dr. Pooja Sharma,MBBS,Orthopedic Surgeon,+91-8570296087,pooja.sharma939@medmail.com,37,,"Dugha, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,422
+Minhas Hospital (Nadaun),Dr. Arun Kashyap,MBBS,Cardiologist,+91-7030064780,arun.kashyap972@medmail.com,63,,"Dugha, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,700
+Minhas Hospital (Nadaun),Dr. Neha Rana,MBBS,Eye Specialist,+91-9280066572,neha.rana944@medmail.com,42,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1066
+Minhas Hospital (Nadaun),Dr. Suresh Rana,MBBS,General Surgeon,+91-8677154398,suresh.rana323@medmail.com,52,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,593
+Minhas Hospital (Nadaun),Dr. Anjali Singh,MBBS,Orthopedic Surgeon,+91-9856417164,anjali.singh712@medmail.com,60,,"Near Bypass Road, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,579
+Minhas Hospital (Nadaun),Dr. Priya Rana,MBBS,Cardiologist,+91-8259615895,priya.rana83@medmail.com,35,,"Sujanpur Tira, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1183
+Minhas Hospital (Nadaun),Dr. Neha Mahajan,"MBBS, MD",Eye Specialist,+91-8246828873,neha.mahajan492@medmail.com,41,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,497
+Minhas Hospital (Nadaun),Dr. Rohit Kapoor,MBBS,Neurologist,+91-7804008731,rohit.kapoor548@medmail.com,50,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1281
+Minhas Hospital (Nadaun),Dr. Naveen Mahajan,"MBBS, MCh",Dermatologist,+91-9265805720,naveen.mahajan584@medmail.com,36,,"Krishna Nagar, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1051
+Minhas Hospital (Nadaun),Dr. Pooja Kashyap,MBBS,General Surgeon,+91-9192374198,pooja.kashyap9@medmail.com,56,,"Dugha, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,443
+Minhas Hospital (Nadaun),Dr. Naveen Gupta,"MBBS, DM",Pediatrician,+91-9935339123,naveen.gupta451@medmail.com,48,,"Dugha, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,908
+Minhas Hospital (Nadaun),Dr. Rahul Verma,MBBS,Cardiologist,+91-8279637026,rahul.verma998@medmail.com,35,,"Sujanpur Tira, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1447
+Minhas Hospital (Nadaun),Dr. Naveen Bhardwaj,"MBBS, MS",Neurologist,+91-8197205414,naveen.bhardwaj683@medmail.com,56,,"Main Market, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,486
+Minhas Hospital (Nadaun),Dr. Sonal Sharma,"MBBS, MCh",Oncologist,+91-9651000915,sonal.sharma723@medmail.com,43,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,763
+Minhas Hospital (Nadaun),Dr. Rahul Kashyap,"MBBS, MS",Oncologist,+91-9238765933,rahul.kashyap642@medmail.com,57,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,959
+Minhas Hospital (Nadaun),Dr. Manish Gupta,"MBBS, DM",Gynecologist,+91-9421052929,manish.gupta858@medmail.com,61,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1063
+Minhas Hospital (Nadaun),Dr. Priya Bhardwaj,"MBBS, MD",Pediatrician,+91-9931707436,priya.bhardwaj796@medmail.com,31,,"Main Market, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,1254
+Minhas Hospital (Nadaun),Dr. Neha Kashyap,"MBBS, MCh",Dermatologist,+91-7572028871,neha.kashyap843@medmail.com,41,,"Main Market, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,702
+Minhas Hospital (Nadaun),Dr. Naveen Jaiswal,"MBBS, DM",Eye Specialist,+91-9477085819,naveen.jaiswal113@medmail.com,51,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,446
+Minhas Hospital (Nadaun),Dr. Harsh Singh,"MBBS, MD",General Surgeon,+91-8315730650,harsh.singh644@medmail.com,33,,"Near Bypass Road, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1471
+Minhas Hospital (Nadaun),Dr. Naveen Verma,"MBBS, DM",Cardiologist,+91-9901083673,naveen.verma334@medmail.com,53,,"Pakka Bharor, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1163
+Minhas Hospital (Nadaun),Dr. Deepak Jaiswal,"MBBS, MD",Eye Specialist,+91-9488753540,deepak.jaiswal76@medmail.com,53,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,788
+Minhas Hospital (Nadaun),Dr. Rahul Chauhan,"MBBS, MD",Neurologist,+91-9356609109,rahul.chauhan263@medmail.com,33,,"Main Market, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1228
+Minhas Hospital (Nadaun),Dr. Anjali Verma,MBBS,Neurologist,+91-8461369945,anjali.verma146@medmail.com,38,,"Pakka Bharor, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,850
+Minhas Hospital (Nadaun),Dr. Pooja Jaiswal,"MBBS, MD",Cardiologist,+91-9205805513,pooja.jaiswal384@medmail.com,58,,"Sujanpur Tira, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,637
+Minhas Hospital (Nadaun),Dr. Rahul Kapoor,MBBS,ENT Specialist,+91-7623833034,rahul.kapoor947@medmail.com,31,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1171
+Minhas Hospital (Nadaun),Dr. Shalini Verma,"MBBS, DM",ENT Specialist,+91-7505783907,shalini.verma295@medmail.com,52,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,940
+Minhas Hospital (Nadaun),Dr. Amit Kapoor,"MBBS, DM",Eye Specialist,+91-7024613970,amit.kapoor225@medmail.com,36,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,772
+Minhas Hospital (Nadaun),Dr. Anjali Mahajan,"MBBS, MD",Cardiologist,+91-9290259787,anjali.mahajan120@medmail.com,47,,"Near Bypass Road, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,450
+V Care Medical Centre,Dr. Meena Thakur,"MBBS, DM",Cardiologist,+91-9198062634,meena.thakur313@medmail.com,44,,"Near Bypass Road, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,562
+V Care Medical Centre,Dr. Anjali Thakur,"MBBS, DM",General Surgeon,+91-7341906548,anjali.thakur557@medmail.com,51,,"Pakka Bharor, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,443
+V Care Medical Centre,Dr. Pooja Chauhan,"MBBS, MCh",Eye Specialist,+91-9361642775,pooja.chauhan764@medmail.com,54,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,645
+V Care Medical Centre,Dr. Naveen Singh,"MBBS, MD",Gynecologist,+91-7070215377,naveen.singh200@medmail.com,41,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,923
+V Care Medical Centre,Dr. Vikas Chauhan,"MBBS, MCh",General Surgeon,+91-8025074851,vikas.chauhan203@medmail.com,50,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1316
+V Care Medical Centre,Dr. Meena Kashyap,"MBBS, MD",General Surgeon,+91-8302530057,meena.kashyap11@medmail.com,35,,"Krishna Nagar, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1180
+V Care Medical Centre,Dr. Sonal Sharma,"MBBS, MD",Dermatologist,+91-7138968505,sonal.sharma810@medmail.com,46,,"Main Market, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,301
+V Care Medical Centre,Dr. Manish Thakur,"MBBS, MS",ENT Specialist,+91-7239374171,manish.thakur545@medmail.com,44,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1196
+V Care Medical Centre,Dr. Harsh Chauhan,MBBS,Dermatologist,+91-8877710597,harsh.chauhan823@medmail.com,54,,"Krishna Nagar, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,553
+V Care Medical Centre,Dr. Amit Gupta,"MBBS, MS",General Surgeon,+91-7864833749,amit.gupta394@medmail.com,61,,"Dugha, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,752
+V Care Medical Centre,Dr. Alka Kapoor,MBBS,General Surgeon,+91-9169479501,alka.kapoor373@medmail.com,34,,"Krishna Nagar, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1360
+V Care Medical Centre,Dr. Naveen Mahajan,"MBBS, MS",Orthopedic Surgeon,+91-9114896611,naveen.mahajan235@medmail.com,32,,"Dugha, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,1483
+V Care Medical Centre,Dr. Rahul Thakur,MBBS,General Surgeon,+91-8117218845,rahul.thakur578@medmail.com,64,,"Sujanpur Tira, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1314
+V Care Medical Centre,Dr. Rahul Sharma,"MBBS, DM",ENT Specialist,+91-7407932442,rahul.sharma948@medmail.com,39,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,308
+V Care Medical Centre,Dr. Manish Jaiswal,"MBBS, MD",Neurologist,+91-9311032590,manish.jaiswal952@medmail.com,50,,"Pakka Bharor, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,1422
+V Care Medical Centre,Dr. Amit Singh,MBBS,Dermatologist,+91-7191996123,amit.singh40@medmail.com,53,,"Main Market, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1115
+V Care Medical Centre,Dr. Shalini Verma,"MBBS, MD",General Surgeon,+91-8940306224,shalini.verma168@medmail.com,51,,"Sujanpur Tira, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,507
+V Care Medical Centre,Dr. Ritu Thakur,"MBBS, DM",Eye Specialist,+91-7627033101,ritu.thakur227@medmail.com,34,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1454
+V Care Medical Centre,Dr. Arun Jaiswal,"MBBS, MS",Dermatologist,+91-7487674460,arun.jaiswal909@medmail.com,54,,"Dugha, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,703
+V Care Medical Centre,Dr. Vikas Kapoor,"MBBS, MD",Orthopedic Surgeon,+91-7622409690,vikas.kapoor923@medmail.com,41,,"Sujanpur Tira, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,451
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Sonal Sharma,"MBBS, MCh",ENT Specialist,+91-8738167839,sonal.sharma46@medmail.com,33,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,353
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Karan Rana,"MBBS, MD",Gynecologist,+91-8666413583,karan.rana133@medmail.com,55,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1443
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Rahul Jaiswal,"MBBS, MCh",Pediatrician,+91-8012802958,rahul.jaiswal92@medmail.com,31,,"Krishna Nagar, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,927
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Pooja Mahajan,"MBBS, DM",Pediatrician,+91-7799929206,pooja.mahajan729@medmail.com,59,,"Krishna Nagar, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,886
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Rohit Thakur,MBBS,General Surgeon,+91-9022316527,rohit.thakur437@medmail.com,36,,"Pakka Bharor, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,403
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Arun Gupta,"MBBS, MCh",Gynecologist,+91-8499689089,arun.gupta55@medmail.com,65,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,553
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Rohit Thakur,MBBS,Dermatologist,+91-7429859246,rohit.thakur238@medmail.com,30,,"Main Market, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1435
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Rahul Verma,"MBBS, MCh",Pediatrician,+91-9843956426,rahul.verma143@medmail.com,48,,"Main Market, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,809
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Naveen Kashyap,"MBBS, DM",ENT Specialist,+91-9903792667,naveen.kashyap606@medmail.com,63,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,398
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Arun Mahajan,"MBBS, DM",Eye Specialist,+91-8872826911,arun.mahajan384@medmail.com,44,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,452
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Ritu Rana,"MBBS, MD",Eye Specialist,+91-9139392700,ritu.rana650@medmail.com,47,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1213
+"Regional (District) Ayurvedic Hospital, Hamirpur",Dr. Anjali Verma,"MBBS, MS",Dermatologist,+91-7811563289,anjali.verma393@medmail.com,54,,"Main Market, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,1177
+Nav Bharati Clinic,Dr. Meena Verma,MBBS,Dermatologist,+91-7189692790,meena.verma33@medmail.com,55,,"Sujanpur Tira, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,637
+Nav Bharati Clinic,Dr. Suresh Thakur,MBBS,General Surgeon,+91-9971020089,suresh.thakur204@medmail.com,50,,"Main Market, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,1121
+Nav Bharati Clinic,Dr. Naveen Thakur,"MBBS, MS",Dermatologist,+91-7982595005,naveen.thakur302@medmail.com,56,,"Main Market, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1486
+Nav Bharati Clinic,Dr. Neha Rana,MBBS,Eye Specialist,+91-9008928898,neha.rana974@medmail.com,42,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1256
+Nav Bharati Clinic,Dr. Ritu Thakur,MBBS,Pediatrician,+91-7655230319,ritu.thakur818@medmail.com,38,,"Pakka Bharor, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,460
+Nav Bharati Clinic,Dr. Deepak Jaiswal,"MBBS, MS",Gynecologist,+91-9595294701,deepak.jaiswal140@medmail.com,51,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1100
+Nav Bharati Clinic,Dr. Pooja Gupta,"MBBS, MCh",Eye Specialist,+91-7352156351,pooja.gupta301@medmail.com,38,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,697
+Nav Bharati Clinic,Dr. Suresh Gupta,"MBBS, DM",Cardiologist,+91-8415512263,suresh.gupta595@medmail.com,55,,"Sujanpur Tira, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1115
+Nav Bharati Clinic,Dr. Priya Bhardwaj,"MBBS, MCh",Cardiologist,+91-7338804775,priya.bhardwaj969@medmail.com,50,,"Near Bypass Road, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1458
+Nav Bharati Clinic,Dr. Sheetal Rana,"MBBS, DM",ENT Specialist,+91-9735791406,sheetal.rana47@medmail.com,45,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,700
+Nav Bharati Clinic,Dr. Raghav Verma,"MBBS, MCh",Pediatrician,+91-7145999135,raghav.verma88@medmail.com,50,,"Krishna Nagar, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,939
+Lady Willnagton Hospital,Dr. Amit Jaiswal,"MBBS, MD",Oncologist,+91-7990745457,amit.jaiswal686@medmail.com,57,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1356
+Lady Willnagton Hospital,Dr. Naveen Kashyap,"MBBS, MD",Cardiologist,+91-8780946119,naveen.kashyap538@medmail.com,30,,"Krishna Nagar, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,987
+Lady Willnagton Hospital,Dr. Raghav Singh,"MBBS, MD",Gynecologist,+91-9075893019,raghav.singh723@medmail.com,36,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,759
+Lady Willnagton Hospital,Dr. Neha Bhardwaj,"MBBS, MS",General Surgeon,+91-7980970872,neha.bhardwaj147@medmail.com,49,,"Krishna Nagar, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1254
+Lady Willnagton Hospital,Dr. Amit Mahajan,"MBBS, MD",Oncologist,+91-7012546925,amit.mahajan857@medmail.com,52,,"Pakka Bharor, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,769
+Lady Willnagton Hospital,Dr. Amit Kapoor,MBBS,Gynecologist,+91-7473884211,amit.kapoor390@medmail.com,46,,"Near Bypass Road, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1345
+Lady Willnagton Hospital,Dr. Sonal Kapoor,MBBS,Pediatrician,+91-8557792519,sonal.kapoor192@medmail.com,32,,"Near Bypass Road, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,1049
+Lady Willnagton Hospital,Dr. Karan Rana,"MBBS, MS",Dermatologist,+91-7517030907,karan.rana767@medmail.com,54,,"Pakka Bharor, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,337
+Lady Willnagton Hospital,Dr. Shalini Verma,MBBS,Cardiologist,+91-7471088563,shalini.verma953@medmail.com,43,,"Krishna Nagar, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,529
+Lady Willnagton Hospital,Dr. Arun Kapoor,"MBBS, MCh",General Surgeon,+91-9877597105,arun.kapoor306@medmail.com,53,,"Near Bypass Road, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,862
+Lady Willnagton Hospital,Dr. Priya Kapoor,"MBBS, MCh",Oncologist,+91-9468048577,priya.kapoor185@medmail.com,53,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,737
+Lady Willnagton Hospital,Dr. Sheetal Gupta,"MBBS, MS",General Surgeon,+91-9419654475,sheetal.gupta396@medmail.com,42,,"Dugha, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,326
+Lady Willnagton Hospital,Dr. Deepak Sharma,"MBBS, MS",Cardiologist,+91-9648965321,deepak.sharma841@medmail.com,65,,"Sujanpur Tira, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,525
+Lady Willnagton Hospital,Dr. Harsh Mahajan,"MBBS, DM",Eye Specialist,+91-8831112504,harsh.mahajan335@medmail.com,35,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1097
+Lady Willnagton Hospital,Dr. Naveen Thakur,MBBS,Neurologist,+91-9799416982,naveen.thakur866@medmail.com,35,,"Near Bypass Road, Hamirpur",Brain Disorders,Male,No,4:00 PM - 8:00 PM,3.0,583
+Lady Willnagton Hospital,Dr. Neha Verma,"MBBS, MCh",Neurologist,+91-9400396161,neha.verma685@medmail.com,48,,"Sujanpur Tira, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,1178
+Lady Willnagton Hospital,Dr. Manish Verma,MBBS,Dermatologist,+91-8715630057,manish.verma265@medmail.com,49,,"Sujanpur Tira, Hamirpur",Skin Problems,Male,No,4:00 PM - 8:00 PM,3.0,1259
+Lady Willnagton Hospital,Dr. Naveen Chauhan,"MBBS, DM",Gynecologist,+91-8902733052,naveen.chauhan294@medmail.com,48,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,752
+Lady Willnagton Hospital,Dr. Vikas Rana,"MBBS, MS",Eye Specialist,+91-8911152202,vikas.rana468@medmail.com,65,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1319
+Lady Willnagton Hospital,Dr. Karan Gupta,"MBBS, DM",Gynecologist,+91-9254261750,karan.gupta737@medmail.com,34,,"Krishna Nagar, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1115
+Lady Willnagton Hospital,Dr. Naveen Bhardwaj,"MBBS, MCh",Orthopedic Surgeon,+91-7550759131,naveen.bhardwaj985@medmail.com,42,,"Near Bypass Road, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,958
+Govt Hospital,Dr. Sonal Kapoor,MBBS,Cardiologist,+91-8931946140,sonal.kapoor132@medmail.com,40,,"Dugha, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,846
+Govt Hospital,Dr. Meena Kashyap,"MBBS, MD",Gynecologist,+91-8491445894,meena.kashyap950@medmail.com,46,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1372
+Govt Hospital,Dr. Neha Sharma,MBBS,Oncologist,+91-8502134218,neha.sharma170@medmail.com,40,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,316
+Govt Hospital,Dr. Alka Rana,"MBBS, MCh",Dermatologist,+91-7183858392,alka.rana303@medmail.com,53,,"Sujanpur Tira, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,1495
+Govt Hospital,Dr. Harsh Rana,"MBBS, MD",Cardiologist,+91-9190887775,harsh.rana21@medmail.com,57,,"Dugha, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,457
+Govt Hospital,Dr. Vikas Gupta,"MBBS, DM",Orthopedic Surgeon,+91-9164717937,vikas.gupta61@medmail.com,45,,"Sujanpur Tira, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,776
+Govt Hospital,Dr. Shalini Chauhan,"MBBS, MD",Cardiologist,+91-7860152961,shalini.chauhan281@medmail.com,65,,"Main Market, Hamirpur",Heart Problems,Male,No,4:00 PM - 8:00 PM,3.0,1369
+Govt Hospital,Dr. Arun Thakur,MBBS,Pediatrician,+91-8687018621,arun.thakur842@medmail.com,50,,"Near Bypass Road, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,817
+Govt Hospital,Dr. Meena Jaiswal,"MBBS, MCh",Oncologist,+91-7466036633,meena.jaiswal490@medmail.com,39,,"Main Market, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,398
+Govt Hospital,Dr. Amit Sharma,"MBBS, MS",Orthopedic Surgeon,+91-7135088244,amit.sharma243@medmail.com,64,,"Sujanpur Tira, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,1360
+Govt Hospital,Dr. Ritu Jaiswal,MBBS,General Surgeon,+91-7965134994,ritu.jaiswal202@medmail.com,38,,"Sujanpur Tira, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,579
+Govt Hospital,Dr. Neha Gupta,"MBBS, MCh",Eye Specialist,+91-8984871248,neha.gupta910@medmail.com,54,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,796
+Govt Hospital,Dr. Sonal Gupta,"MBBS, DM",General Surgeon,+91-9403803629,sonal.gupta44@medmail.com,50,,"Dugha, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,601
+Govt Hospital,Dr. Amit Thakur,"MBBS, MS",General Surgeon,+91-7811135702,amit.thakur674@medmail.com,44,,"Krishna Nagar, Hamirpur",General Surgery,Male,No,4:00 PM - 8:00 PM,3.0,480
+Krishana Hospital,Dr. Alka Verma,"MBBS, MCh",Gynecologist,+91-9599244390,alka.verma402@medmail.com,37,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,906
+Krishana Hospital,Dr. Alka Jaiswal,"MBBS, MCh",Pediatrician,+91-7035927985,alka.jaiswal750@medmail.com,38,,"Pakka Bharor, Hamirpur",Child Health Issues,Female,No,4:00 PM - 8:00 PM,3.0,1422
+Krishana Hospital,Dr. Shalini Jaiswal,"MBBS, MD",Eye Specialist,+91-8853906667,shalini.jaiswal58@medmail.com,31,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,999
+Krishana Hospital,Dr. Priya Jaiswal,"MBBS, DM",Cardiologist,+91-9160815430,priya.jaiswal435@medmail.com,37,,"Dugha, Hamirpur",Heart Problems,Female,No,4:00 PM - 8:00 PM,3.0,1292
+Krishana Hospital,Dr. Sonal Singh,"MBBS, DM",Orthopedic Surgeon,+91-8944939743,sonal.singh645@medmail.com,47,,"Krishna Nagar, Hamirpur",Bone & Joint Problems,Female,No,4:00 PM - 8:00 PM,3.0,1439
+Krishana Hospital,Dr. Anjali Jaiswal,"MBBS, DM",Gynecologist,+91-9015219937,anjali.jaiswal895@medmail.com,32,,"Pakka Bharor, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,490
+Krishana Hospital,Dr. Ritu Verma,"MBBS, MD",General Surgeon,+91-7393054220,ritu.verma651@medmail.com,35,,"Pakka Bharor, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,552
+Krishana Hospital,Dr. Alka Rana,"MBBS, MCh",Gynecologist,+91-8647639848,alka.rana666@medmail.com,31,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1280
+Krishana Hospital,Dr. Suresh Singh,MBBS,Eye Specialist,+91-8457308985,suresh.singh41@medmail.com,52,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1227
+Krishana Hospital,Dr. Meena Verma,"MBBS, MS",General Surgeon,+91-9502194330,meena.verma639@medmail.com,53,,"Dugha, Hamirpur",General Surgery,Female,No,4:00 PM - 8:00 PM,3.0,1484
+Krishana Hospital,Dr. Karan Bhardwaj,MBBS,Pediatrician,+91-7412045121,karan.bhardwaj71@medmail.com,49,,"Near Bypass Road, Hamirpur",Child Health Issues,Male,No,4:00 PM - 8:00 PM,3.0,427
+Krishana Hospital,Dr. Rohit Mahajan,"MBBS, MD",Gynecologist,+91-9008714290,rohit.mahajan40@medmail.com,39,,"Dugha, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,317
+Krishana Hospital,Dr. Meena Singh,"MBBS, MCh",Dermatologist,+91-9991291606,meena.singh475@medmail.com,40,,"Main Market, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,865
+Krishana Hospital,Dr. Sheetal Kashyap,MBBS,Dermatologist,+91-7843578340,sheetal.kashyap989@medmail.com,45,,"Main Market, Hamirpur",Skin Problems,Female,No,4:00 PM - 8:00 PM,3.0,869
+Krishana Hospital,Dr. Meena Bhardwaj,"MBBS, MS",Eye Specialist,+91-9373632496,meena.bhardwaj506@medmail.com,63,,"Sujanpur Tira, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,985
+Krishana Hospital,Dr. Rahul Singh,MBBS,Orthopedic Surgeon,+91-8340231437,rahul.singh344@medmail.com,51,,"Main Market, Hamirpur",Bone & Joint Problems,Male,No,4:00 PM - 8:00 PM,3.0,925
+Krishana Hospital,Dr. Rahul Kapoor,"MBBS, MS",Gynecologist,+91-8826786000,rahul.kapoor473@medmail.com,43,,"Main Market, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1153
+Krishana Hospital,Dr. Harsh Thakur,"MBBS, MD",Oncologist,+91-8565600936,harsh.thakur697@medmail.com,32,,"Sujanpur Tira, Hamirpur",General Treatment,Male,No,4:00 PM - 8:00 PM,3.0,1261
+Krishana Hospital,Dr. Anjali Chauhan,"MBBS, MCh",Gynecologist,+91-9200405324,anjali.chauhan118@medmail.com,35,,"Dugha, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,454
+Krishana Hospital,Dr. Pooja Mahajan,MBBS,Neurologist,+91-9787365588,pooja.mahajan60@medmail.com,53,,"Krishna Nagar, Hamirpur",Brain Disorders,Female,No,4:00 PM - 8:00 PM,3.0,789
+Krishana Hospital,Dr. Pooja Sharma,"MBBS, MS",ENT Specialist,+91-8936024095,pooja.sharma264@medmail.com,39,,"Krishna Nagar, Hamirpur",General Treatment,Female,No,4:00 PM - 8:00 PM,3.0,1084
