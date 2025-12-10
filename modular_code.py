@@ -21,7 +21,7 @@ api_key = os.environ["OPENAI_API_KEY"]
 llm = ChatOpenAI(model="gpt-4",api_key = api_key)
 
 
-data = pd.read_csv("data\hospitals_database_modified (1).csv")
+data = pd.read_csv("data\hospitals_database_modified.csv")
 
 class State(TypedDict):
     query_dict:dict
